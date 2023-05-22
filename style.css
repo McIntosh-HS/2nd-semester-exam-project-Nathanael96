@@ -33,7 +33,7 @@ li a {
 }
 
 li a:hover {
-    background-color: yellow;
+    background-color: rgb(233, 182, 89);
 }
 td, th {
     border: 1px solid black(0, 4, 7);
